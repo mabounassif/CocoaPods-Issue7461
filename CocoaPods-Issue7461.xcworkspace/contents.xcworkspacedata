@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:CocoaPods-Issue7461.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:node_modules/react-native-randombytes/RNRandomBytes.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:node_modules/react-native-sensitive-info/ios/RNSensitiveInfo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:node_modules/react-native-simple-toast/ios/LRDRCTSimpleToast.xcodeproj">
+   </FileRef>
+</Workspace>

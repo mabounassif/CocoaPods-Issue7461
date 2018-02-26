@@ -1,0 +1,14 @@
+{
+  "name": "CocoaPods-Issue7461",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "mabounassif <mahmoud.abounassif@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "16.0.0-alpha.12",
+    "react-native": "^0.50.4",
+    "react-native-randombytes": "^3.0.0",
+    "react-native-sensitive-info": "^5.1.0",
+    "react-native-simple-toast": "^0.0.8"
+  }
+}
